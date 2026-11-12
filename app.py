@@ -619,11 +619,7 @@ Dues paelles. Molta confiança. Tot a punt per a tu.
 El davantal ja està posat. Les paelles, preparades.
 <br>
 Només falta la convidada més especial.
-<br><br>
-<span class="highlight">Una taula per a nosaltres, una mica d'Itàlia al plat<br>
-i un sopar preparat amb amore.</span>
-<br><br>
-Jo hi poso el davantal i el sopar; tu, el somriure.
+
 </div>
 """,
         unsafe_allow_html=True,
