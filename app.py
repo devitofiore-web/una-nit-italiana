@@ -620,12 +620,10 @@ El davantal ja està posat. Les paelles, preparades.
 <br>
 Només falta la convidada més especial.
 <br><br>
-<span class="highlight">Una mica d'Itàlia, un sopar fet amb amore<br>
-i una taula reservada només per a nosaltres.</span>
+<span class="highlight">Una taula per a nosaltres, una mica d'Itàlia al plat<br>
+i un sopar preparat amb amore.</span>
 <br><br>
-El xef, el sopar.
-<br>
-I tu? Tu poses el somriure.
+Jo hi poso el davantal i el sopar; tu, el somriure.
 </div>
 """,
         unsafe_allow_html=True,
